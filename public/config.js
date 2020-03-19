@@ -9,11 +9,12 @@ window.Config = {
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
+  // 1JAW 2XUEXI 3JAW.DNS 4STATUS.PAGE
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm784577102-ba0955164545eab951e91d58',
+    'm784569970-990b69b8a7effdf0dd0f1d53',
+    'm784577101-a12813e72dded6817d9223c7',
+    'm784577103-12b6a324ecf12b3123b40ce2',
   ],
 
   // 是否显示监测站点的链接
@@ -28,11 +29,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://status.jaw.jp/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/Niksend/uptimerobot-statuskit'
     }
   ]
 };
