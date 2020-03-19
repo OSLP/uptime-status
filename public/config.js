@@ -31,8 +31,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Home',
-      url: 'https://status.jaw.jp/'
+      text: 'Contact',
+      url: 'https://bili.icu'
     },
     {
       text: 'GitHub',
